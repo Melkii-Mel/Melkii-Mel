@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melkii-Mel
 - 👀 I’m interested in game development and simulations, but stuck with web development for a bit due to college
-- 🌱 I’m currently learning Rust - perhaps the best programming language out there
+- 🎮 If you want to try out some of my games, check my Itch.io profile: https://m-melloaf.itch.io/
 - 📫 How to reach me:
   - discord: @melkii_mel,
   - gmail: melkii.sleeper00w2@gmail.com
