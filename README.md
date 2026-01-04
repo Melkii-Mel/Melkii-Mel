@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melkii-Mel
-- 👀 I’m interested in game development and simulations, but stuck with web development for a bit due to college
+- 👀 I’m interested in game development and simulations, but *was* stuck with web development for a bit due to college
 - 🎮 If you want to try out some of my games, check my Itch.io profile: https://m-melloaf.itch.io/
 - 📫 How to reach me:
   - discord: @melkii_mel,
