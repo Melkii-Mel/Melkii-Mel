@@ -1,4 +1,4 @@
-- Check https://m-melloaf.itch.io/ if you want to try out some of my games 
+- Check out my games at https://m-melloaf.itch.io/ if you want to try them out
 - I'm interested in building games, simulations, utilies, automation and CLI tools
 - Contacts:
   - discord: @melkii_mel,
